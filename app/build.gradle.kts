@@ -34,6 +34,11 @@ dependencies {
 
     // Use the Kotlin JUnit integration.
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
+
+    // AssertThat
+    testImplementation("org.assertj:assertj-core:3.23.1")
+
+
 }
 
 application {
