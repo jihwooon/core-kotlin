@@ -1,6 +1,6 @@
 ## 코어 코틀린(Kotlin)
 
-JIRA Epic: [코틀린](https://github.com/users/jihwooon/projects/4/views/1)
+프로젝트: [코틀린](https://github.com/users/jihwooon/projects/4/views/1)
 
 ## 요약 (Summary)
 여기에 이 테크 스펙을 대략적으로 정리하세요. 이 제안 전체에 대해 누가/무엇을/언제/어디서/왜를 간략하면서도 명확하게 적으세요.
