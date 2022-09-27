@@ -11,10 +11,6 @@ class FunctionsTest {
 
     fun sum_inferred(a: Int, b: Int) = a + b;
 
-    fun printSum(a : Int, b : Int) {
-        println("sum of $a and $b is ${a + b}")
-    }
-
     @Test
     fun `It return type`() {
         assertThat(sum(1, 2)).isEqualTo(3);
@@ -26,4 +22,12 @@ class FunctionsTest {
         assertThat(sum_inferred(1, 2)).isEqualTo(3);
         assertThat(sum_inferred(3, 4)).isEqualTo(7);
     }
+}
+
+fun printSum(a : Int, b : Int) {
+    println("sum of $a and $b is ${a + b}")
+}
+
+fun main() {
+    printSum(-1,8)
 }
