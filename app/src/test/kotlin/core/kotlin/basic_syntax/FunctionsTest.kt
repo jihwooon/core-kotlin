@@ -1,4 +1,4 @@
-package core.kotlin
+package core.kotlin.basic_syntax
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.Test
