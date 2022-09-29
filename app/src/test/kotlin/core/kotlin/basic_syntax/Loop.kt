@@ -32,9 +32,7 @@ fun main() {
 
     val array = arrayOf("a", "b", "c")
     for (i in array.indices) {
-        val arr = array[i]
-
-        println("$arr")
+        println("${array[i]}")
     }
 
     for ((index, value) in array.withIndex()) {
