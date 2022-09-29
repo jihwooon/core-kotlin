@@ -4,28 +4,6 @@ import org.assertj.core.api.Assertions.assertThat
 import org.junit.Test
 import java.lang.Math.max
 import java.lang.Math.min
-import java.util.*
-
-/**
- * ## 미지의 것
- *
- * ## 자료
- * -
- * -
- *
- * ## 조건
- * -
- * -
- *
- * ## 계획
- * -
- * -
- *
- * ## 반성
- * -
- * -
- *
- */
 
 class `1이될때까지`() {
 
