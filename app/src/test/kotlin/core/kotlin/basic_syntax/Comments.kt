@@ -1,4 +1,4 @@
-package core.kotlin
+package core.kotlin.basic_syntax
 
 // This is an end-of-line comment
 

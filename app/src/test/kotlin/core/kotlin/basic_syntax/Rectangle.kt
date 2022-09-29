@@ -1,4 +1,4 @@
-package core.kotlin
+package core.kotlin.basic_syntax
 
 
 class Rectangle(var height: Double, var length: Double) {
